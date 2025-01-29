@@ -1,0 +1,36 @@
+
+.input-field {
+    margin-top: 10px;
+    width: 300px;
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .submit-btn {
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #45a049;
+  }
+  
+
+  #map {
+    height: 500px;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+  }
+  
